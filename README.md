@@ -1,4 +1,4 @@
-# Argus — Procurement Integrity Platform (Proof of Concept)
+# LUmus — Procurement Integrity Platform 
 
 Investigator-facing procurement anomaly detection. Surfaces patterns worth
 human review with a full, tamper-evident evidence trail — it never labels
